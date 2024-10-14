@@ -6,6 +6,8 @@ It is pre-configured with TypeScript as well!
 
 ## Usage
 
+Try out on [StackBlitz](https://stackblitz.com/~/github.com/kevinfiol/umai-vite).
+
 ```bash
 npm install
 npm run dev
