@@ -1,7 +1,12 @@
 {
   "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
   "dependencies": {
-    "umai": "^0.2.6"
+    "umai": "^0.3.0"
   },
   "devDependencies": {
     "typescript": "^5.5.3",
